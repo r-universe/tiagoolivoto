@@ -1,9 +1,5 @@
 [
   {
-    "package": "metan",
-    "oncran": true
-  },
-  {
     "package": "pliman",
     "oncran": true
   }
