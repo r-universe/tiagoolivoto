@@ -5,7 +5,3 @@
 [submodule "metan"]
 	path = metan
 	url = https://github.com/tiagoolivoto/metan
-[submodule "plimanshiny"]
-	path = plimanshiny
-	url = https://github.com/TiagoOlivoto/plimanshiny
-	registered = false
