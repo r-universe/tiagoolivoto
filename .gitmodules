@@ -5,9 +5,6 @@
 [submodule "metan"]
 	path = metan
 	url = https://github.com/tiagoolivoto/metan
-[submodule "pliman"]
-	path = pliman
-	url = https://github.com/tiagoolivoto/pliman
 [submodule "plimanshiny"]
 	path = plimanshiny
 	url = https://github.com/TiagoOlivoto/plimanshiny
